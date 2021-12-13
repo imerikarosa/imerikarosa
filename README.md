@@ -1,7 +1,7 @@
 # Hi, I'm Erika Pita! :wave:
 I'm a college student majoring in Computer Programming and Analysis - IoT Applications.
 
-# What am i learning? :book:
+# What am I learning? :book:
 At my college, I'm registered in three courses:
 - C/C++ Programming for Embedded Devices
 - System Analysis, Design and Implementation
