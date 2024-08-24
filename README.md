@@ -1,16 +1,12 @@
 # Hi, I'm Erika Pita! :wave:
-I'm a college student majoring in Computer Programming and Analysis - IoT Applications.
+I’m currently pursuing my Bachelor's degree in Information Technology.
 
 # What am I learning? :book:
-At my college, I'm registered in three courses:
-- C/C++ Programming for Embedded Devices
-- System Analysis, Design and Implementation
-- Java Programming 
-
-In addition, I'm taking an Udemy course on IoT Development for C#.
+Getting deeper into networking stuff (protocols, infrastructure, and keeping everything secure).
+Plus, I'm actively studying for the CompTIA A+ certification.
 
 # What am I working on? :computer:
-I am currently in the early stages of an Arduino project for my C/C++ Programming for Embedded Devices class.
+I’m currently setting up a homelab to experiment with different IT setups and technologies.
 
 
 <!---
